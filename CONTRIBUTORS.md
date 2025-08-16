@@ -1,3 +1,2 @@
 # Contributors
-Agregue su nombre y carnet aquí al entregar su solución.
-
+DARYL ALDAIR YALIBAT MAAS 0902236029

@@ -1,0 +1,15 @@
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\bin\Debug\net10.0\PromedioApp.exe
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\bin\Debug\net10.0\PromedioApp.deps.json
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\bin\Debug\net10.0\PromedioApp.runtimeconfig.json
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\bin\Debug\net10.0\PromedioApp.dll
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\bin\Debug\net10.0\PromedioApp.pdb
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.AssemblyInfoInputs.cache
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.AssemblyInfo.cs
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.csproj.CoreCompileInputs.cache
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.sourcelink.json
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.dll
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\refint\PromedioApp.dll
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.pdb
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\PromedioApp.genruntimeconfig.cache
+C:\Users\senal\Desktop\0902236019\seccionATest\alumnos\0902236019\PromedioApp\obj\Debug\net10.0\ref\PromedioApp.dll
