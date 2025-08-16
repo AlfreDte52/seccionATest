@@ -1,6 +1,4 @@
 # Contributors
 
 DARYL ALDAIR YALIBAT MAAS 0902236029
-
-
-
+- Luis Pacay — Carnet: 0902-23-6634
