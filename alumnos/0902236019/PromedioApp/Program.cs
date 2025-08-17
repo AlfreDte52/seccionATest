@@ -18,9 +18,9 @@ namespace PromedioApp
                 do
                 {
                     Console.Write($"Número {i + 1}: ");
-                    string entrada = Console.ReadLine();
+                    string? entrada = Console.ReadLine();
 
-                    if (int.TryParse(entrada, out valor))
+                    if (entrada != null && int.TryParse(entrada, out valor))
                     {
                         numeros[i] = valor;
                         esEntero = true;
